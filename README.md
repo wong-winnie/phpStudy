@@ -2,6 +2,8 @@
 
 > # [demo2 日历](http://www.source-open.com/479032)
 
+> # [demo3 图片转ASCII码图](http://www.source-open.com/482291)
+
 > # [messagebox1, 原生PHP留言板](http://www.source-open.com/478221)
 
 > # [messagebox2, ThinkPHP留言板](http://www.source-open.com/478221)
