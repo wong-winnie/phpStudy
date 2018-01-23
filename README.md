@@ -9,3 +9,5 @@
 > # [UEditor编辑器](http://www.source-open.com/469930)
 
 > # [Webuploader文件上传](http://www.source-open.com/469929)
+
+> # [TpPageHelper, ThinkPHP自定义分页模板](https://www.kancloud.cn/xiaohuamao/gprc/478223)
