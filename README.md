@@ -13,3 +13,7 @@
 > # [Webuploader文件上传](http://www.source-open.com/469929)
 
 > # [TpPageHelper, ThinkPHP自定义分页模板](https://www.kancloud.cn/xiaohuamao/gprc/478223)
+
+> # [Captcha1 验证码](http://www.source-open.com/479033)
+
+> # [Captcha2 验证码](http://www.source-open.com/479033)
