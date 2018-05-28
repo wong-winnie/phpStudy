@@ -9,4 +9,4 @@
 
 > # Tools
 
-* [这里写链接内容](aaaa)
+* [screent 管理多个终端](https://jingyan.baidu.com/article/7c6fb428df799580642c901b.html)
