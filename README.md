@@ -8,8 +8,5 @@
 
 > # [samba 文件共享](https://jingyan.baidu.com/article/77b8dc7fac66cc6174eab620.html)
 
----
-
-> # [ThinkPHP5 自定义分页模板](https://jingyan.baidu.com/article/ce43664946f3fb3773afd3a1.html)
 
 
